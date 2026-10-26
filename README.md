@@ -4,6 +4,9 @@ Stále se vzdělávám, abych měla přehled o moderních nástrojích a oriento
 
 Dále se vzdělávám v SQL, Pandas, Tableau a dalších nástrojích pro datovou analýzu. Mám silnou motivaci a ochotu učit se novým věcem, analytické myšlení a zodpovědný přístup k práci. Věřím, že kombinace mých dosavadních zkušeností, nově získaných znalostí a aktivního přístupu může být přínosem pro budoucího zaměstnavatele.
 
+LinkedIn: linkedin.com/in/tereza-s-709431221
+Email: teriko@email.cz
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 Finance and Data Professional with a solid academic foundation from the University of Economics, 
@@ -12,3 +15,6 @@ Prague, with over 15 years of experience across finance, human resources, and bu
 I am committed to continuous learning to stay up-to-date with modern tools and navigate the rapidly evolving job market. I completed a retraining course in Python web application development through ITnetwork.cz, followed by courses focused on data analysis: "Introduction to Data Analysis" and "Data Analysis with Power BI." Projects completed during these courses are showcased in my portfolio. Data processing was a key component of several of my previous roles, which allowed me to develop proficiency in tools such as Excel, PowerPoint, and Power BI. I have long aspired to delve deeper into this field, and my recent studies have been instrumental in that pursuit. I am eager to apply my knowledge in a professional setting, continue my professional development, and build the next stage of my career.
 
 I am currently expanding my skills in SQL, Pandas, Tableau, and other data analysis tools. I am highly motivated, eager to learn, possess an analytical mindset, and maintain a responsible approach to my work. I believe that the combination of my existing experience, newly acquired knowledge, and proactive attitude would be a valuable asset to a future employer.
+
+LinkedIn: linkedin.com/in/tereza-s-709431221
+Email: teriko@email.cz
